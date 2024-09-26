@@ -43,10 +43,10 @@ form {
 
 fieldset {
   border: none;
-   /* display: flex;
+   display: flex;
   gap: 1rem; 
   justify-content: space-between; 
-  align-items: center; */
+  align-items: center;
 } 
 
 .fieldset-wrapper {
